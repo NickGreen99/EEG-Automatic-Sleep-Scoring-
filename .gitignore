@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+.vscode
+
+current_study_data_raw/
+
+datasets.py
+denoising_attempts.py
+pyproject.toml
+uv.lock
+
+manual_data_scoring.xlsx
