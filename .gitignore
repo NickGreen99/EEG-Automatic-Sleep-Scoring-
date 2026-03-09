@@ -18,3 +18,6 @@ pyproject.toml
 uv.lock
 
 manual_data_scoring.xlsx
+
+sleep_xvit_ssh1.pth
+.claude/
